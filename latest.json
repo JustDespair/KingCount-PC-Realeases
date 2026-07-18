@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Lanzamiento Inicial",
+  "version": "0.1.2",
+  "notes": "Version 0.1.2 - ReDiseño de Ajustes y Respaldo de Base de datos Arreglado",
   "pub_date": "2026-07-18T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekFFMkkweHpKVjRpYWdFTUY0ejVUbkM5NVdvT1V1Mjh5akludjFzSitleklDRDJHckY3enpIQnVGcDhvdXdrazNxRWtNZzFEWTllUU5scG5TczJWTlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDAyOTA5CWZpbGU6S2luZ0NvdW50XzAuMS4xX3g2NC1zZXR1cC5leGUKN3N5TEN4RVpsR0NrUVhWTTBVbS9QZEwrNGgzWEtGcUhpM1BNbmRTT2JnRGUzK2NPT2txaGljNkJORnFlV3U4TlhZSW1GNHpoRlB1QWx2ZHZwUWtuQXc9PQo=",
-      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.1/KingCount_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXek0vcDJiTWtITklvZGpyQUQ0b1VNQ3VKS1NnbjF6OFVmVERDdmNtTFpTbExQWE9VWEZxVDZXeUJYaGh4RE9JZzltZzI5ZXp2WWQ1amE0ZVlqcy9pVUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDA4MjM2CWZpbGU6S2luZ0NvdW50XzAuMS4yX3g2NC1zZXR1cC5leGUKQVBhRzdwT0xKbHhEcEo3bzZWU3FEeXZnV1NqdzE5WlphdjBGSjVOLzBnUy8wL1BCcXFxZkZsM1NiUVFROXhxZ0JCRmU4VFVtdXdCMEN0NVFXT1F3RGc9PQo=",
+      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.2/KingCount_0.1.2_x64-setup.exe"
     }
   }
 }
