@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Version 0.1.2 - ReDiseño de Ajustes y Respaldo de Base de datos Arreglado",
+  "version": "0.1.3",
+  "notes": "Version 0.1.3 - Arreglo de respaldo de bases de datos, funcion automatica de respaldos y carga de respaldos",
   "pub_date": "2026-07-18T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXek0vcDJiTWtITklvZGpyQUQ0b1VNQ3VKS1NnbjF6OFVmVERDdmNtTFpTbExQWE9VWEZxVDZXeUJYaGh4RE9JZzltZzI5ZXp2WWQ1amE0ZVlqcy9pVUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDA4MjM2CWZpbGU6S2luZ0NvdW50XzAuMS4yX3g2NC1zZXR1cC5leGUKQVBhRzdwT0xKbHhEcEo3bzZWU3FEeXZnV1NqdzE5WlphdjBGSjVOLzBnUy8wL1BCcXFxZkZsM1NiUVFROXhxZ0JCRmU4VFVtdXdCMEN0NVFXT1F3RGc9PQo=",
-      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.2/KingCount_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekpEdEVDZWNsYWRjWTdhK3MxUHhKRGlCWnVpcmhoMkpVYnR1Mk5EWWs4OEdja3JSS21GcUt2bFpHbE5zMnBTeWFHR1dtc0lzKzFEaUhaakUxbzJxSUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDExOTk2CWZpbGU6S2luZ0NvdW50XzAuMS4zX3g2NC1zZXR1cC5leGUKVCtIbVRMUWNWL04zd3VxN1lkVXkrSFBNdGNFUXFiUEN2aWhEM0JvT3RMckZUbmJOYng2aTlxWUpPa0N2N0VHVm1FVHRMcnhBOXdQeEpWcmdQeUV0Qnc9PQo=",
+      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.3/KingCount_0.1.3_x64-setup.exe"
     }
   }
 }
