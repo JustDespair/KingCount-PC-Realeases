@@ -1,6 +1,11 @@
 {
-  "version": "v0.1.1",
-  "notes": "",
-  "pub_date": "",
-  "platforms": {}
+  "version": "0.1.0",
+  "notes": "Lanzamiento Inicial",
+  "pub_date": "2026-07-18T18:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekhJRnVUSW4rLzFmZ3gvT3FjcmpTcGtXaVZhdlFQeWZITXMwRzlFY1pMaW1mV1ZTbHRTYUh5TWNqR2JSNGRwZkp2ZTlqRmJYdW5QTFhFZUxwT0ppOXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzk4ODE4CWZpbGU6S2luZ0NvdW50XzAuMS4wX3g2NC1zZXR1cC5leGUKcHR1Z0hudHE3cUsvYzZES1VXV2d2ekd3SkZEYWppbFhOcy82RzlyOWFYa1J1djlHTVd4dEdNTVNmVFNkazJ1ZDE3SjBlM1hJaG9ZNFFnNWwyczdHQVE9PQo=",
+      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.0/KingCount_0.1.0_x64-setup.exe"
+    }
+  }
 }
