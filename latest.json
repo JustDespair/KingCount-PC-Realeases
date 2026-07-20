@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Version 0.1.4 - Mejoras en el sistema de licencias",
+  "version": "0.1.5",
+  "notes": "Version 0.1.5 - Arreglo de errores en sistema de licencias",
   "pub_date": "2026-07-18T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXek1JSVdtRld3TEFrWEZMQlIyOWo4UTJaS09MOVhER2JkTThrWDlXYk1neEI3cUwrV1F0MmtTbTJSNnp0WW1wQXZzWlNMM2NKQWEwY0Jxb24rOGUzTGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTE0ODQwCWZpbGU6S2luZ0NvdW50XzAuMS40X3g2NC1zZXR1cC5leGUKbXUrM1Q1N0RzSk92OFg4d1A5cU9PN0ZGalM5SG9tS1RYQnVPRS84WThmUzhUVHBoZzJMSWNlWFRoUXorYUE4bHlQaUZWV0tkclZrUGZxQ3E2R2gxREE9PQo=",
-      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.4/KingCount_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekxhSEU0aFMvL1BaZm55NGhDTmliZXg0NkRmTW5QTkNXQmRrdVBZT2hCdkl1U2RlVUE2NEVCSUgwRHlkVzMxTE8xbVRtNEJVRHRYbVJhVWZwNXduSmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTE1OTI1CWZpbGU6S2luZ0NvdW50XzAuMS41X3g2NC1zZXR1cC5leGUKeTdZa1l3OTJubVRtRDNEc2d4R3ZiYlFuT2VQZkI4cDJ3QysrZU1QNjNHeG5NME1ndlAwUVpiclRZNDVPUkpJMzFZbHhiTnNnQi9meU1odncrTVNpQUE9PQo=",
+      "url": "https://github.com/JustDespair/KingCount-PC-Realeases/releases/download/v0.1.5/KingCount_0.1.5_x64-setup.exe"
     }
   }
 }
